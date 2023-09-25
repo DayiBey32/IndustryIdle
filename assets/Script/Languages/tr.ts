@@ -159,7 +159,7 @@ export const TR = {
     PhoneFactory: "Telefon Fabrikası",
     Phone: "Telefon",
     GlassFactory: "Cam Fabrikası",
-    Oil: "Petrol",
+    Oil: "Ham Petrol",
     Chromium: "Krom",
     ChromiumMine: "Krom Madeni",
     Uranium: "Uranyum",
